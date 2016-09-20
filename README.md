@@ -1,2 +1,2 @@
-# disassemble-parser
+# disassembler-parser
 python parser for different disassmebler
